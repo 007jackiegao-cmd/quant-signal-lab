@@ -1,0 +1,12 @@
+{
+  "name": "quant-signal-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "6.0.7"
+  }
+}
